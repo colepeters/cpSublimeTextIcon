@@ -16,7 +16,7 @@ Original design by [Cole Peters](http://github.com/colepeters). Feel free to for
 4. Drag the <code>.icns</code> file overtop of the Sublime Text icon in the Info panel. You will see the icon change. Close the Info panel.
 5. Right-click on your Sublime Text application icon and choose Show Package Contents.
 6. Navigate to <code>/Contents/Resources</code>, and copy the <code>.icns</code> file to this directory.
-7. Rename it to <code>Sublime Text 2.icns</code> or <code>Sublime Text 3.icns</code>, depending on your version of the app.
+7. Rename it to <code>Sublime Text 2.icns</code> or <code>Sublime Text.icns</code>, depending on your version of the app.
 8. You're done! If you don't see the icon update in your dock, open Terminal and run <code>killall Dock</code> to relaunch it.
 
 ## Notes

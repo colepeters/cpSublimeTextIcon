@@ -26,3 +26,11 @@ This repository includes the following:
 - Icon Slate project file (for converting <code>.png</code> files to <code>.icns</code> files
 
 You will need the [Sketch beta](http://www.bohemiancoding.com/sketch/beta/) (v2.3.2 build 5137 or later)to edit the master file. Icon Slate is available for [download on the App Store](https://itunes.apple.com/gb/app/icon-slate/id439697913?mt=12), or you can use another converter of your choice (preferably one that includes options for including 2x assets for Retina displays).
+
+## Version notes
+
+1.1: Converted the tile from a rounded rectangle to a circle — more OSX friendly. Some subtle colour adjustments. Also added an outline to the light 16pt icon to aid visibility within OSX's list view.
+
+1.0.1: Converted the “st” type for 16pt icons to outlines
+
+1.0: First release!

@@ -29,6 +29,8 @@ You will need the [Sketch beta](http://www.bohemiancoding.com/sketch/beta/) (v2.
 
 ## Version notes
 
+2.0: Same concept, new design.
+
 1.2: Reduced the height of the I-bar. Added some extra weight to the 128pt icon to aid with clarity when displayed in the Dock. Darkened the dark icon a bit.
 
 1.1: Converted the tile from a rounded rectangle to a circle — more OSX friendly. Some subtle colour adjustments. Also added an outline to the light 16pt icon to aid visibility within OSX's list view.
